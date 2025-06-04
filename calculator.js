@@ -26,3 +26,7 @@ const getAbsolute = (a) => {
 		return a * -1
 	}
 }
+
+const square = () => {
+    
+}
