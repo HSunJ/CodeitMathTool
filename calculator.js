@@ -18,3 +18,11 @@ const divide_local = () => {
 	// TODO
     return a
 }
+
+const getAbsolute = (a) => {
+	if (a >= 0) {
+		return a
+	} else {
+		return a * -1
+	}
+}
