@@ -16,4 +16,5 @@ const multiply = (a,b) => {
 
 const divide_local = () => {
 	// TODO
+    return a
 }
