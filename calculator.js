@@ -13,3 +13,20 @@ const devine = (a,b) => {
 const multiply = (a,b) => {
     return a*b
 }
+
+const divide_local = () => {
+	// TODO
+    return a
+}
+
+const getAbsolute = (a) => {
+	if (a >= 0) {
+		return a
+	} else {
+		return a * -1
+	}
+}
+
+const square = () => {
+    
+}
